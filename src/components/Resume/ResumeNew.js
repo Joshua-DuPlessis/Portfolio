@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/Joshua_DuPlessis_CV.pdf";
+import pdf from "../../Assets/Joshua_DuPlessis_CV.pdf.pdf";
 import bscPdf from "../../Assets/UWC Transcript.pdf";
 import awsCloudPdf from "../../Assets/AWS Certified Cloud Practitioner certificate (2).pdf";
 import awsDeveloperPdf from "../../Assets/AWS Certified Developer - Associate certificate .pdf";
