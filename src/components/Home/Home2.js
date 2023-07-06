@@ -15,7 +15,7 @@ function Home2() {
                 LET ME <span className="purple"> INTRODUCE </span> MYSELF
               </h1>
               <p className="home-about-body">
-                I am an AWS re/Start graduate, and have started my journey as a cloud engineer since 2022.
+                I am an AWS re/Start graduate. I started my journey as a cloud engineer in 2022.
                 <i>
                   <b className="purple">Committed to growing my skill-set, I've gained two certifications from AWS in the last year!</b>
                 </i>
@@ -28,9 +28,8 @@ function Home2() {
                   <b className="purple">Re/Start Program</b> I have a deep understanding of modern cloud-based technologies, thanks to{" "}
                   <b className="purple">
                     <a href="https://rlabs.org/" target="_blank" rel="noopener noreferrer">R-Labs</a>,
-                    <a href="https://skywalkinnovations.co.za/" target="_blank" rel="noopener noreferrer">Skywalk Innovations</a>,
                     &amp;
-                    <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">AWS</a>
+                    <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">AWS</a>,
                   </b>
                 </i>
                 <br />
